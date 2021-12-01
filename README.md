@@ -1,0 +1,2 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/70ebajomhokeuw0n/branch/master?svg=true)](https://ci.appveyor.com/project/leonidbeltsov/qa23-aqa2-2/branch/master)
+[![Java CI with Gradle](https://github.com/leonidbeltsov/QA23_AQA2.2/actions/workflows/MyGradleWorkflow.yml/badge.svg)](https://github.com/leonidbeltsov/QA23_AQA2.2/actions/workflows/MyGradleWorkflow.yml)
